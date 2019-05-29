@@ -1,4 +1,4 @@
-package question1_10;
+package q1_10;
 
 /**
  * 7.Reverse Integer

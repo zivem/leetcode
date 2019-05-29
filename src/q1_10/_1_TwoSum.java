@@ -1,8 +1,6 @@
-package question1_10;
+package q1_10;
 
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
 
 /**
  * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
