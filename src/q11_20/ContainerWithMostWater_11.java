@@ -74,6 +74,9 @@ public class ContainerWithMostWater_11 {
      * But moving the shorter line's pointer could turn out to be beneficial, as per the same argument, despite the reduction in the width.
      * This is done since a relatively longer line obtained by moving the shorter line's pointer might overcome the reduction in area caused by the width reduction.
      *
+     *
+     *  Time complexity : t(n)= O(3+n)=O(n)
+     *  Space complexity : O(1)
      */
     public static int maxArea2(int[] height) {
         int area = 0 ;
