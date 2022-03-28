@@ -1,4 +1,4 @@
-package DataStructure;
+package com.zl.dataStructure;
 
 import java.util.Arrays;
 

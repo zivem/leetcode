@@ -1,4 +1,4 @@
-package DataStructure;
+package com.zl.dataStructure;
 
 public class ArrayTest {
 

@@ -1,4 +1,4 @@
-package q1_10;
+package com.zl.q1_10;
 
 /**
  * Median of Two Sorted Arrays
