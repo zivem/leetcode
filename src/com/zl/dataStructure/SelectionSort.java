@@ -46,5 +46,6 @@ public class SelectionSort {
                 l++;
             }
         }
+        return area;
     }
 }
