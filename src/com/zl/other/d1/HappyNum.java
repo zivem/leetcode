@@ -1,4 +1,4 @@
-package com.zl.other;
+package com.zl.other.d1;
 
 public class HappyNum {
     public static void main(String[] args) {
